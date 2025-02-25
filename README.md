@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-fernandes-90b9a72b4/)
 
-![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard2919&show_icons=true&theme=radical)
+![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=Richard&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia
 
