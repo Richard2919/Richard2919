@@ -8,7 +8,7 @@ Sou focado em aprendizado contínuo e em aplicar a tecnologia para resolver
 problemas reais, tanto na área de infraestrutura quanto no desenvolvimento
 de software.
 
-🔗 [LinkedIn](COLE_AQUI_SEU_LINK_DO_LINKEDIN)
+🔗 [LinkedIn](https://www.linkedin.com/in/richard-fernandes-90b9a72b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
