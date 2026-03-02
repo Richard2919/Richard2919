@@ -13,14 +13,11 @@
 
 ### 🚀 Projetos em Destaque
 
-* 💳 **[Jodo de xadrez](https://github.com/Richard2919/chess-system-java)** > Jogo de xadrez online com todas as funções.
-  > *Techs: Java, Integrações de Pagamento*
+* 💳 **[Jodo de xadrez](https://github.com/Richard2919/chess-system-java)** > Jogo de xadrez online com todas as funções (ainda em desenvolvimento).
+  > *Techs: Java*
 
 * 🐾 **[PetShopV2](https://github.com/Richard2919/PetShop-v2)** > Sistema moderno de gerenciamento.
   > *Techs: Java, Firebase*
-
-* 📝 **[Sistema de Cadastro](LINK_DO_SEU_REPOSITORIO)** > Aplicação com cadastro, listagem e organização de dados, utilizando conceitos sólidos de orientação a objetos.
-  > *Techs: Java*
 
 * 🎮 **[Jogo da Forca](https://github.com/Richard2919/Projeto-JAVA/tree/main/Forca)** > Projeto em console para prática de lógica de programação, estruturas condicionais e de repetição.
   > *Techs: Java*
