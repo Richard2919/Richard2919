@@ -1,4 +1,4 @@
-# Olá, eu sou o [Richard]! 👋
+# Olá, eu sou o Richard! 👋
 
 ### 👨‍💻 Sobre mim
 * 🎓 Estudante de **Ciência da Computação**
