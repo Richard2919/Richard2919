@@ -8,8 +8,8 @@
 * 🔭 Atualmente trabalhando no **PetShopV2** (com integração Firebase) e no desenvolvimento de um **SaaS para automação de pagamentos** de pequenos negócios.
 * 🌱 Aprofundando conhecimentos em **Java**, **Python** e arquitetura de software.
 * ⚡ Fato curioso: Nas horas vagas, a estratégia vai toda para manter o rank Imortal 1 no Valorant e seguir focado nos treinos da academia.
+* 📌 Em busca da primeira oportunidade profissional na área de Desenvolvimento back-end
 
-*📌 Em busca da primeira oportunidade profissional na área de Desenvolvimento back-end
 
 ---
 
