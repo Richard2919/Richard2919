@@ -9,6 +9,8 @@
 * 🌱 Aprofundando conhecimentos em **Java**, **Python** e arquitetura de software.
 * ⚡ Fato curioso: Nas horas vagas, a estratégia vai toda para manter o rank Imortal 1 no Valorant e seguir focado nos treinos da academia.
 
+* <p align="center">📌 <em>Em busca da primeira oportunidade profissional na área de Desenvolvimento back-end</em></p>
+
 ---
 
 ### 🚀 Projetos em Destaque
@@ -64,4 +66,4 @@
 </div>
 
 <br>
-<p align="center">📌 <em>Em busca da primeira oportunidade profissional na área de Tecnologia da Informação</em></p>
+
