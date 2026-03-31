@@ -13,10 +13,10 @@
 
 ### 🚀 Projetos em Destaque
 
-* 💳 **[Jodo de xadrez](https://github.com/Richard2919/chess-system-java)** > Jogo de xadrez online com todas as funções (ainda em desenvolvimento).
-  > *Techs: Java*
+* 🏋️ **[Academia 2.0](link-do-seu-repositorio)** > Sistema completo de gestão fitness. Implementado com arquitetura MVC, padrão DAO para persistência de dados, e controle transacional.
+  > *Techs: Java, JDBC, SQLite*
 
-* 🐾 **[PetShopV2](https://github.com/Richard2919/PetShop-v2)** > Sistema moderno de gerenciamento.
+* 🐾 **[PetShopV2](https://github.com/Richard2919/PetShop-v2)** > Sistema de gerenciamento focado em operações CRUD completas e persistência de dados em nuvem.
   > *Techs: Java, Firebase*
 
 * 🎮 **[Jogo da Forca](https://github.com/Richard2919/Projeto-JAVA/tree/main/Forca)** > Projeto em console para prática de lógica de programação, estruturas condicionais e de repetição.
@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  
 </div>
 
 ---
